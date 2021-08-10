@@ -1,0 +1,8 @@
+gps.c:21:6:getGPS	8	static
+gps.c:26:6:setWaypoint	4	static
+gps.c:29:6:clearWaypoint	4	static
+gps.c:32:6:getCompass	24	static
+gps.c:39:6:setHeading	16	static
+gps.c:48:6:gpsInfo	4	static
+gps.c:51:6:goWaypoint	40	static
+gps.c:83:6:Startup	16	static

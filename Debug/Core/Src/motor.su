@@ -1,0 +1,7 @@
+motor.c:12:6:set_motor	16	static
+motor.c:55:6:motor_move	4	static
+motor.c:61:6:mvForward	8	static
+motor.c:67:6:mvBackward	8	static
+motor.c:73:6:mvLeft	8	static
+motor.c:80:6:mvRight	8	static
+motor.c:86:6:Stop	4	static
